@@ -8885,7 +8885,7 @@
                         enabled: s,
                         delay: (r.length + 2) * 100,
                         children: (0, i.jsx)(er, {
-                          link: "https://app.uniswap.org/swap?outputCurrency=0x9816234a60a667eDc969E25cCD148A9900a29C26",
+                          link: "https://app.uniswap.org/swap?outputCurrency=0xcomingsoon",
                           children: "Buy Now",
                         }),
                       }),
@@ -10711,7 +10711,7 @@
           (0, a.useEffect)(() => {
             let e = (e) => {
               ("t" === e.key || "T" === e.key) &&
-                window.open("https://app.ramdai.vip", "_blank");
+                window.open("https://app.ramdai.cc/", "_blank");
             };
             return (
               window.addEventListener("keydown", e),
