@@ -7516,7 +7516,7 @@
               (0, i.jsx)(o$, {
                 children: (0, i.jsx)("p", {
                   children:
-                    " T3 Venture Labs Limited \xa9 2025 All Rights Reserved",
+                    " T3 Venture Labs Limited \xa9 2026 All Rights Reserved",
                 }),
               }),
               s > 576 &&
@@ -8917,7 +8917,7 @@
                             enabled: s,
                             delay: (r.length + 5) * 100,
                             children:
-                              " T3 Venture Labs Limited \xa9 2025 All Rights Reserved",
+                              " T3 Venture Labs Limited \xa9 2026 All Rights Reserved",
                           }),
                           (0, i.jsx)("div", { className: "border" }),
                         ],
